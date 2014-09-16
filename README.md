@@ -2,6 +2,14 @@ awesome-emoji
 =============
 
 A collection of great Emoji
+![](http://monkey.coding.io/onion-monkey-emoji/onion-monkey-emoji_23.png)
+
+
+## Open Source Custom Emoji
+
+* [emojione](http://www.emojione.com/)
+* [Onion Monkey](http://monkey.coding.io/)
+* [Phantom Open Emoji](https://github.com/Genshin/PhantomOpenEmoji)
 
 
 ## Emoji
@@ -13,15 +21,7 @@ A collection of great Emoji
 * [Facebook symbols](http://fsymbols.com/)
 * [iemoji](http://www.iemoji.com/) -- The Emoji Keyboard for the Computer
 * [getemoji](http://getemoji.com/)
-
-
-## Open Source Custom Emoji
-
-* [emojione](http://www.emojione.com/)
-* [Onion Monkey](http://monkey.coding.io/)
-
-![](http://monkey.coding.io/onion-monkey-emoji/onion-monkey-emoji_23.png)
-* [Phantom Open Emoji](https://github.com/Genshin/PhantomOpenEmoji)
+* [emojisites](http://emojisites.com/)
 
 
 ## Ruby
