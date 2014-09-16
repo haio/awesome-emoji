@@ -15,7 +15,7 @@ A collection of great Emoji
 * [getemoji](http://getemoji.com/)
 
 
-## Open Source Custome Emoji
+## Open Source Custom Emoji
 
 * [emojione](http://www.emojione.com/)
 * [Onion Monkey](http://monkey.coding.io/)
