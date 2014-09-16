@@ -19,7 +19,8 @@ A collection of great Emoji
 
 * [emojione](http://www.emojione.com/)
 * [Onion Monkey](http://monkey.coding.io/)
-	![](http://monkey.coding.io/onion-monkey-emoji/onion-monkey-emoji_23.png)
+
+![](http://monkey.coding.io/onion-monkey-emoji/onion-monkey-emoji_23.png)
 * [Phantom Open Emoji](https://github.com/Genshin/PhantomOpenEmoji)
 
 
