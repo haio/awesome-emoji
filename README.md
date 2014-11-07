@@ -2,6 +2,7 @@ awesome-emoji
 =============
 
 A collection of great Emoji
+
 ![](http://monkey.coding.io/onion-monkey-emoji/onion-monkey-emoji_23.png)
 
 
@@ -10,6 +11,8 @@ A collection of great Emoji
 * [emojione](http://www.emojione.com/)
 * [Onion Monkey](http://monkey.coding.io/)
 * [Phantom Open Emoji](https://github.com/Genshin/PhantomOpenEmoji)
+* [twemoji](https://github.com/twitter/twemoji)
+* [github emoji showcase](https://github.com/showcases/emoji)
 
 
 ## Emoji
